@@ -1,3 +1,4 @@
+![header](https://github.com/rosundfeld/rosundfeld/blob/d13ba90dea691a59c77fa1bf378b3fef1299c1ad/header.jpg)
 # 💫 About Me:
 🔭 I’m currently working on Angular, Swift, Unity<br>🌱 I’m currently learning: AWS, UI/UX
 
@@ -14,5 +15,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rosundfeld&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![footer](https://github.com/rosundfeld/rosundfeld/blob/a740b4f6573c807ef577803c22fdf4a1395748f6/footer.jpg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
