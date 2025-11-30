@@ -1,6 +1,6 @@
 ![header](https://github.com/rosundfeld/rosundfeld/blob/d13ba90dea691a59c77fa1bf378b3fef1299c1ad/header.jpg)
 # 💫 About Me:
-🔭 I’m currently working on Angular, Swift, Unity<br>🌱 I’m currently learning: AWS, UI/UX
+🔭 I’m currently working on Angular, Swift, Unity<br>🌱 I’m currently learning: Python, Service Now
 
 
 ## 🌐 Socials:
